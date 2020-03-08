@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,|AT| ATV HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11994
+#EXTINF:-1,|AT| ATV 2
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11995
+#EXTINF:-1,|AT| ORF 1 HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11992
+#EXTINF:-1,|AT| ORF 2N HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/40118
+#EXTINF:-1,|AT| ORF 3 HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/40120
+#EXTINF:-1,|AT| ORF SPORT+ HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/89433
+#EXTINF:-1,|AT| PULS 4 HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11996
+#EXTINF:-1,|AT| SERVUS TV HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/40119
+#EXTINF:-1,|AT| SPORT AUSTRIA HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/89424
+#EXTINF:-1,|AT| ORF SPORT+
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/94726
+#EXTINF:-1,|AT| ORF2W HD
+http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/94727
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
