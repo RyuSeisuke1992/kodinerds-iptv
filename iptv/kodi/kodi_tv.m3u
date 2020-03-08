@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1,|AT| ATV HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11994
-#EXTINF:-1,|AT| ATV 2
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11995
-#EXTINF:-1,|AT| ORF 1 HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11992
-#EXTINF:-1,|AT| ORF 2N HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/40118
-#EXTINF:-1,|AT| ORF 3 HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/40120
-#EXTINF:-1,|AT| ORF SPORT+ HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/89433
-#EXTINF:-1,|AT| PULS 4 HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/11996
-#EXTINF:-1,|AT| SERVUS TV HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/40119
-#EXTINF:-1,|AT| SPORT AUSTRIA HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/89424
-#EXTINF:-1,|AT| ORF SPORT+
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/94726
-#EXTINF:-1,|AT| ORF2W HD
-http://91.208.115.166:80/YTdUco1JmOpRvav/BZMqkPzpUp3kmnV/94727
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
@@ -322,11 +300,11 @@ https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+http://mytv.fun:8080/julia/jhygu87gf/8051
 #EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
+http://mytv.fun:8080/julia/jhygu87gf/8050
 #EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF SPORT +
-https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
+http://mytv.fun:8080/julia/jhygu87gf/8049
 #EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="RE eins TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/reeins.png",RE eins TV
